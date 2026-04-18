@@ -20,6 +20,7 @@ Whether you're seeking daily inspiration, love guidance, or career direction, on
 
 Sites using artificial intelligence to provide personalized, context-aware tarot interpretations.
 
+- [Lumi Tarot](https://createdbyaicreator.cloud/creations/tarot) - Free AI tarot reader with 15+ language support. Instantly interprets all 78 cards with context-aware readings, no signup required. Multilingual support makes it unique among AI tarot tools.
 - [Taro's Tarot](https://tarostarot.com) - AI-powered tarot readings with personalized interpretations based on your specific questions. Features 22+ spreads, dream interpretation, tarot journaling, and the ability to save reading history. 4.6-star rating with both free and premium options available.
 - [Tarotap](https://tarotap.com) - Modern AI tarot platform with clean interface and instant readings. No signup required, interpretations adapt to your situation.
 - [Mystic AI Tarot](https://mysticaitarot.com) - AI-driven card interpretations that respond to your energy and questions.
