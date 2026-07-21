@@ -23,6 +23,7 @@ Sites using artificial intelligence to provide personalized, context-aware tarot
 - [Taro's Tarot](https://tarostarot.com) - AI-powered tarot readings with personalized interpretations based on your specific questions. Features 22+ spreads, dream interpretation, tarot journaling, and the ability to save reading history. 4.6-star rating with both free and premium options available.
 - [Tarotap](https://tarotap.com) - Modern AI tarot platform with clean interface and instant readings. No signup required, interpretations adapt to your situation.
 - [Mystic AI Tarot](https://mysticaitarot.com) - AI-driven card interpretations that respond to your energy and questions.
+- [Luna Tarot](https://www.lunatarotapp.com) - Free multilingual tarot reading PWA supporting 8 languages. Features daily readings, meditation music, moon calendar, and energy forecast. No signup required, works offline.
 
 ## Interactive Tarot Reading Platforms
 
