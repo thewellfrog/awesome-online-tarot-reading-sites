@@ -69,6 +69,7 @@ Mobile applications for on-the-go tarot readings.
 
 Platforms combining astrological insights with tarot readings.
 
+- [Suanleb](https://suanlem.asia/) - Browser-based Bazi, three-card Tarot, and Vedic astrology readings with saved history.
 - [Tarot.com](https://tarot.com) - Comprehensive spiritual platform offering tarot, astrology, numerology, I Ching, and Feng Shui. Features over 100 reading types and daily horoscopes.
 - [Astrology.com](https://astrology.com/tarot.html) - Daily tarot readings integrated with zodiac insights. Clean interface with one-card and multi-card spreads.
 - [Horoscope.com Tarot](https://horoscope.com/us/tarot/index-tarot-reading.aspx) - Free daily tarot integrated with astrological spreads. Features love tarot, career guidance, and themed readings.
