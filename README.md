@@ -20,9 +20,10 @@ Whether you're seeking daily inspiration, love guidance, or career direction, on
 
 Sites using artificial intelligence to provide personalized, context-aware tarot interpretations.
 
+- [Multifate](https://multifate.com/tools/tarot) - Free online Tarot chart tool with optional AI-assisted readings grounded in the drawn spread; part of a multilingual multi-system metaphysics site (EN/ZH/JA/KO).
+- [Mystic AI Tarot](https://mysticaitarot.com) - AI-driven card interpretations that respond to your energy and questions.
 - [Taro's Tarot](https://tarostarot.com) - AI-powered tarot readings with personalized interpretations based on your specific questions. Features 22+ spreads, dream interpretation, tarot journaling, and the ability to save reading history. 4.6-star rating with both free and premium options available.
 - [Tarotap](https://tarotap.com) - Modern AI tarot platform with clean interface and instant readings. No signup required, interpretations adapt to your situation.
-- [Mystic AI Tarot](https://mysticaitarot.com) - AI-driven card interpretations that respond to your energy and questions.
 
 ## Interactive Tarot Reading Platforms
 
