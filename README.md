@@ -73,6 +73,7 @@ Platforms combining astrological insights with tarot readings.
 - [Astrology.com](https://astrology.com/tarot.html) - Daily tarot readings integrated with zodiac insights. Clean interface with one-card and multi-card spreads.
 - [Horoscope.com Tarot](https://horoscope.com/us/tarot/index-tarot-reading.aspx) - Free daily tarot integrated with astrological spreads. Features love tarot, career guidance, and themed readings.
 - [AstroStyle](https://astrostyle.com) - Combines astrology and tarot for unique readings. Daily draws and themed spreads for those interested in how both systems intersect.
+- [Asteria](https://askasteria.com/tarot/) - Free tarot spreads from 29 decks, including the Waite-Smith deck of 1909, alongside a free birth chart, zodiac compatibility and Moon calendar. No signup required, in six languages.
 
 ## Classic Free Tarot Sites
 
